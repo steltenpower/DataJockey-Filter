@@ -10,7 +10,7 @@ To show tiny categories, or many almost overlapping values, allow transforming t
 - use transparency
 - Also allow all 'empty' variants
 
-Quick&dirty: Don't mix categorical and number values, have 1 parallel coordinates thing and 1 parallel sets thing
+Quick&dirty: Don't mix categorical and number values, have 1 parallel coordinates thing and 1 parallel sets thing, like https://www.youtube.com/watch?v=SphrIOU76o0
 
 Say based on the values of your graphical filtering you generate the WHERE clause of an SQL-query.
 
