@@ -5,7 +5,7 @@ If you rotate the bottom one, you can add it into the top one I think with line-
 
 Wouldn't that be a great way to create an SQL-query too?
 
-
+Here's a picture of an actual example (interactivity unknown) : https://mobile.twitter.com/xangregg/status/1351639103293583360
 # related:
 
 Other useful exploratory data analysis: https://www.youtube.com/watch?v=A5e2ZajMFfY
