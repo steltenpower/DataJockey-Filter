@@ -1,13 +1,18 @@
 # Query by viz
 
-Parallel coordinates and parallel sets together seems like a great exploratory analysis tool: https://www.youtube.com/watch?v=SphrIOU76o0
-If you rotate the bottom one, you can add it into the top one I think with line-width to height/n.
+This example of [Parallel coordinates and parallel sets together](https://www.youtube.com/watch?v=SphrIOU76o0) seems like a great exploratory data analysis tool
 
-Wouldn't that be a great way to create an SQL-query too?
+A different example shows [Par.Coords and Par.Sets in one chart](https://mobile.twitter.com/xangregg/status/1351639103293583360)
 
-Here's a picture of an actual example (interactivity unknown) : https://mobile.twitter.com/xangregg/status/1351639103293583360
-# related:
+[shinymeta, making GUI-actions reproducible[(https://www.r-bloggers.com/2019/07/shinymeta%e2%80%8a-%e2%80%8aa-revolution-for-reproducibility-2/)
 
-Other useful exploratory data analysis: https://www.youtube.com/watch?v=A5e2ZajMFfY
+Having a combination of the above, that could also generate SQL-queries (tidyverse<>SQL things exist), would be close to perfect
 
-A handyman friend said it would be handy to filter on material properties [material selection](https://en.m.wikipedia.org/wiki/Material_selection#Ashby_plots)
+# Possible application:
+
+For material properties: [Ashby plots](https://en.m.wikipedia.org/wiki/Material_selection#Ashby_plots)
+
+# other exploratory data visualization:
+
+[DataExplorer create_report() function in R](https://www.youtube.com/watch?v=A5e2ZajMFfY)
+
