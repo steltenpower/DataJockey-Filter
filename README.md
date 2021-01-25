@@ -4,7 +4,7 @@ This example of [Parallel coordinates and parallel sets together](https://www.yo
 
 A different example shows [Par.Coords and Par.Sets in one chart](https://mobile.twitter.com/xangregg/status/1351639103293583360)
 
-[shinymeta, making GUI-actions reproducible[(https://www.r-bloggers.com/2019/07/shinymeta%e2%80%8a-%e2%80%8aa-revolution-for-reproducibility-2/)
+[shinymeta, making GUI-actions reproducible](https://www.r-bloggers.com/2019/07/shinymeta%e2%80%8a-%e2%80%8aa-revolution-for-reproducibility-2/)
 
 Having a combination of the above, that could also generate SQL-queries (tidyverse<>SQL things exist), would be close to perfect
 
