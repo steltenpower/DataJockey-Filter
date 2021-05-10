@@ -1,5 +1,6 @@
 # Query by viz
 
+<img src="https://repository-images.githubusercontent.com/257705174/bf43bf80-787f-11eb-90fb-902c4aa0c841">
 This example of [Parallel coordinates and parallel sets together](https://www.youtube.com/watch?v=SphrIOU76o0) seems like a great exploratory data analysis tool
 
 A different example shows [Par.Coords and Par.Sets in one chart](https://mobile.twitter.com/xangregg/status/1351639103293583360)
