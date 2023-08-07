@@ -4,7 +4,7 @@
 This example of [Parallel coordinates and parallel sets together](https://www.youtube.com/watch?v=SphrIOU76o0) seems like a great exploratory data analysis tool
 
 A different example shows [Par.Coords and Par.Sets in one chart](https://mobile.twitter.com/xangregg/status/1351639103293583360)
-
+<img src="https://pbs.twimg.com/media/EsH8AeqW8AMIgtm?format=webp&name=medium" width="20%"/>
 [shinymeta, making GUI-actions reproducible](https://www.r-bloggers.com/2019/07/shinymeta%e2%80%8a-%e2%80%8aa-revolution-for-reproducibility-2/)
 
 Having a combination of the above, that could also generate SQL-queries (tidyverse<>SQL things exist, e.g. https://dbplyr.tidyverse.org/articles/translation-verb.html ), would be close to perfect
