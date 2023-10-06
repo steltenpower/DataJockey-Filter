@@ -4,7 +4,17 @@
 All ingredients needed exist in some shape or form. I just haven't seen them combined.
 I see it as a general table filtering tool.
 
-[Parallel Sets](https://ggforce.data-imaginist.com/reference/geom_parallel_sets.html) recalculated into [Parallel Coordinates](https://r-charts.com/ranking/parallel-coordinates-ggplot2/) is a good start. Let's try.
+[Parallel Sets](https://ggforce.data-imaginist.com/reference/geom_parallel_sets.html) recalculated into [Parallel Coordinates](https://r-charts.com/ranking/parallel-coordinates-ggplot2/) is a good start. Let's try:
+
+n1, n2, n3, etc., parallel_sets mapped on 0-1 parallel_coordinates
+
+N=sum(n1,n2,n3,..)
+
+stroke-width = 1/N
+
+y= (i-1/2) * (1/N)
+
+
 
 JMP software does [ParallelCoordinates and ParallelSets chart types combined in one chart](https://mobile.twitter.com/xangregg/status/1351639103293583360)<br>
 <img src="https://pbs.twimg.com/media/EsH8AeqW8AMIgtm?format=webp&name=medium" width="20%"/>
