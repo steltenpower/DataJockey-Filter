@@ -11,7 +11,9 @@ N=sum(n1,n2,n3,..)<br>
 stroke-width = 1/N<br>
 y= (i-1/2) * (1/N)<br>
 
-Within the set keep the same order as in the neighboring coordinates, or if you have coordinates on both sides, take a sort of average
+Within the set keep the same order as in the neighboring coordinates, or if you have coordinates on both sides, take a sort of average.
+
+If built, it would help many more people from a proper home, therefore I suggested it to GGally: https://github.com/ggobi/ggally/issues/473
 
 JMP software does [ParallelCoordinates and ParallelSets chart types combined in one chart](https://mobile.twitter.com/xangregg/status/1351639103293583360)<br>
 <img src="https://pbs.twimg.com/media/EsH8AeqW8AMIgtm?format=webp&name=medium" width="20%"/>
