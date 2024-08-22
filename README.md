@@ -23,6 +23,8 @@ Here you see the chart types coupled, but below each other, interacted with: [Pa
 To be reproducible (or replayable on a different data set) you need the GUI-actions captured and possible to replay:
 [shinymeta, making GUI-actions reproducible](https://www.r-bloggers.com/2019/07/shinymeta%e2%80%8a-%e2%80%8aa-revolution-for-reproducibility-2/)
 
+https://plotly.com/python/parallel-coordinates-plot/
+
 Now if you could turn your shinyGUI-actions into the more generally used SQL, it would make it awesome power tool.
 (tidyverse<>SQL things exist, e.g. https://dbplyr.tidyverse.org/articles/translation-verb.html ), would be close to perfect
 
