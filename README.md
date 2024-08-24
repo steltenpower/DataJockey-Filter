@@ -28,6 +28,8 @@ https://plotly.com/python/parallel-coordinates-plot/
 Now if you could turn your shinyGUI-actions into the more generally used SQL, it would make it awesome power tool.
 (tidyverse<>SQL things exist, e.g. https://dbplyr.tidyverse.org/articles/translation-verb.html ), would be close to perfect
 
+Quak: https://github.com/manzt/quak
+
 # Possible application:
 
 For material properties: [Ashby plots](https://en.m.wikipedia.org/wiki/Material_selection#Ashby_plots), also see https://www.ansys.com/products/materials/granta-edupack (Nog in Blackboard onder "Start" in lijst?)
