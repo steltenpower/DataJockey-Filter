@@ -18,6 +18,8 @@ If built, it would help many more people from a proper home, therefore I suggest
 JMP software does [ParallelCoordinates and ParallelSets chart types combined in one chart](https://mobile.twitter.com/xangregg/status/1351639103293583360)<br>
 <img src="https://pbs.twimg.com/media/EsH8AeqW8AMIgtm?format=webp&name=medium" width="20%"/>
 
+https://vizhub.com/curran/parallel-coordinates-with-brushing
+
 Here you see the chart types coupled, but below each other, interacted with: [Parallel coordinates and parallel sets together](https://www.youtube.com/watch?v=SphrIOU76o0) seems like a great exploratory data analysis tool
 
 To be reproducible (or replayable on a different data set) you need the GUI-actions captured and possible to replay:
