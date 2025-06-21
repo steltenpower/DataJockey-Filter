@@ -41,3 +41,5 @@ For material properties: [Ashby plots](https://en.m.wikipedia.org/wiki/Material_
 [DataExplorer create_report() function in R](https://www.youtube.com/watch?v=A5e2ZajMFfY)
 
 https://pypi.org/project/drawdata/
+
+Available in Orange Data Mining perhaps?
