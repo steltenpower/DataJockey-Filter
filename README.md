@@ -1,4 +1,4 @@
-# Query by viz
+# DataJockey-Filter
 
 <img src="https://repository-images.githubusercontent.com/257705174/bf43bf80-787f-11eb-90fb-902c4aa0c841"><br>
 All ingredients needed exist in some shape or form. I just haven't seen them combined.
